@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panch8 - easy going - love to work - Team working - 
 - 👀 I’m interested in Web3 and blockchain
 - 🌱 I’m currently learning full stack web develpment
-- 💞️ I’m looking to collaborate on any web3 proyect
+- 💞️ I’m looking to collaborate on web3 proyects
 - 📫 How to reach me: mail: francisco.codino@gmail.com
 -                     tel (italy): +39 375 588 6070
 
